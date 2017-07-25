@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Company>
+    <ID>34351a2f-1944-41e2-a2ff-4c369e31b2c1</ID>
+    <CompanyName>c333</CompanyName>
+    <Address>address1,
+address2,
+address 3</Address>
+    <PurchaseDate>636359207020000000</PurchaseDate>
+    <Tickets>
+      <VMail>
+        <TicketID>8a451f64-f72e-4ca3-a10e-63d0f71b24d2</TicketID>
+        <RecievedTime>636365278365152303</RecievedTime>
+        <ContactName>Bob</ContactName>
+        <ResponseMade>0</ResponseMade>
+        <Content>e we 
+dsf
+ adf
+adf
+adf
+</Content>
+        <PhoneNumber>243 2323234</PhoneNumber>
+      </VMail>
+    </Tickets>
+  </Company>
+  <Company>
+    <ID>38b86089-0c8b-4476-9817-aaf641e91019</ID>
+    <CompanyName>c2 </CompanyName>
+    <Address>ad a a
+asda df 
+adfasdfadf</Address>
+    <PurchaseDate>636356615520000000</PurchaseDate>
+    <Tickets>
+      <EMail>
+        <TicketID>ace23636-0f01-428b-be4f-afffd87cfd28</TicketID>
+        <RecievedTime>636364749000000000</RecievedTime>
+        <ContactName>Joe</ContactName>
+        <ResponseMade>0</ResponseMade>
+        <Content>asfd adsf adf
+adf
+a
+fa
+sdfa
+dsf</Content>
+        <EmailAddress>wewerwer</EmailAddress>
+        <EmailSubject>adsfadfafd</EmailSubject>
+      </EMail>
+    </Tickets>
+  </Company>
+</Customers>
