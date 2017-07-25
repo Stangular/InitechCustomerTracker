@@ -53,8 +53,8 @@ namespace InitechCustomerTracker
                     dataGridView_tickets.DataSource = null;
                     dataGridView_tickets.DataSource = customer.Tickets;
                     dataGridView_tickets.AutoGenerateColumns = false;
-
-                    _selectedCustomer = customer;
+                    dataGridView_tickets.Refresh();
+                   _selectedCustomer = customer;
                 }
             }
             catch (System.Exception ex)
